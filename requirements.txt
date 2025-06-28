@@ -1,4 +1,6 @@
 streamlit
+nltk.download('punkt_tab')
+nltk.download('stopwords')
 nltk
 scikit-learn
 pandas
